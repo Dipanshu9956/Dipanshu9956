@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipanshu Prasad</h1>
 
-🎓 I'm currently a 4rd-year B.Tech Computer Science student at [KCC Institute of Technology and management , Greater Noida](https://www.kccitm.edu.in/), affiliated with AKTU, Lucknow.
+🎓 I'm currently a 4th-year B.Tech Computer Science student at [KCC Institute of Technology and management , Greater Noida](https://www.kccitm.edu.in/), affiliated with AKTU, Lucknow.
 
 💻 Passionate about web development, software engineering, and building impactful projects. Always learning and exploring new technologies.
 
